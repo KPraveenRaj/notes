@@ -14,7 +14,7 @@ void main() {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage(),
+      home: const LoginView(),
     ),
   );
 }
